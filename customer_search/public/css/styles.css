@@ -1,0 +1,28 @@
+table {
+	margin-top: 30px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+td {
+	border: 1px solid black;
+}
+.panel-danger .panel-heading{
+	background-color: #d71635;
+	color: #ffffff;
+}
+.btn-success{
+	background-color: #d71635;
+	color: #ffffff;
+	border-color: #d71635;
+}

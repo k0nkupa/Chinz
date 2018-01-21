@@ -1,0 +1,39 @@
+.panel-danger .panel-heading {
+	background-color: #d71635;
+}
+.panel-heading h2 {
+	color: white;
+}
+.btn-primary {
+	background-color: #d71635;
+	border-color: #d71635;
+	color: white;
+}
+.btn-primary:hover {
+	background-color: #ffffff;
+	color: black;
+	border-color:  #d71635;
+}
+.form-control {
+	margin-bottom: 10px;
+}
+.btn-success {
+	background-color: #d71635;
+	border-color: #d71635;
+	margin-top: 10px;
+}
+.btn-success:hover {
+	background-color: #ffffff;
+	color: black;
+	border-color: #d71635;
+}
+.label {
+	margin-bottom: 10px;
+}
+#crop-image-i, #crop-image-ii{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.croppie-container .cr-slider-wrap{
+	width: 50%;
+}
